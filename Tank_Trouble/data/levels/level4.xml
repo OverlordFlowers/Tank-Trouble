@@ -1,0 +1,63 @@
+<levels>
+    <player>
+        <posx>600.0</posx>
+        <posy>400.0</posy>
+        <angle>180.0</angle>
+    </player>
+
+    <environment>
+        <rectangle>
+            <posx>300.0</posx>
+            <posy>-165.0</posy>
+            <length>800.0</length>
+            <height>50.0</height>
+            <angle>45.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>500.0</posx>
+            <posy>-50.0</posy>
+            <length>800.0</length>
+            <height>50.0</height>
+            <angle>135.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>265.0</posx>
+            <posy>930.0</posy>
+            <length>800.0</length>
+            <height>50.0</height>
+            <angle>315.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>375.0</posx>
+            <posy>850.0</posy>
+            <length>800.0</length>
+            <height>50.0</height>
+            <angle>225.0</angle>
+        </rectangle>
+    </environment>  
+
+    <enemies>
+        <gunner>
+            <posx>300</posx>
+            <posy>400</posy>
+            <angle>0</angle>
+        </gunner>
+
+        <normal>
+            <posx>400</posx>
+            <posy>100</posy>
+            <angle>90</angle>
+        </normal>
+
+        <normal>
+            <posx>400</posx>
+            <posy>700</posy>
+            <angle>-90</angle>
+        </normal>
+
+    
+    </enemies>
+</levels>

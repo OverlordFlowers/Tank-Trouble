@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<art>
+    <art_sources>
+        <Player_Body src="assets/art/player_tank_body.png"></Player_Body>
+        <Player_Turret src="assets/art/turret.png"></Player_Turret>
+        <Enemy_Body src="assets/art/enemy_tank_body.png"></Enemy_Body>
+        <Normal_Enemy_Turret src="assets/art/enemy_normal_turret.png"></Normal_Enemy_Turret>
+        <Heavy_Enemy_Turret src="assets/art/enemy_heavy_turret.png"></Heavy_Enemy_Turret>
+        <Gunner_Enemy_Turret src="assets/art/enemy_gunner_turret.png"></Gunner_Enemy_Turret>
+        <Sniper_Enemy_Turret src="assets/art/enemy_sniper_turret.png"></Sniper_Enemy_Turret>
+        <Normal_Cannon src="assets/art/normal_shell.png"></Normal_Cannon>
+        
+        
+    </art_sources>
+</art>

@@ -1,0 +1,114 @@
+<levels>
+    <player>
+        <posx>400.0</posx>
+        <posy>750.0</posy>
+        <angle>-90.0</angle>
+    </player>
+
+    <environment>
+        <rectangle>
+            <posx>300.0</posx>
+            <posy>450.0</posy>
+            <length>100.0</length>
+            <height>10.0</height>
+            <angle>60.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>500.0</posx>
+            <posy>455.0</posy>
+            <length>100.0</length>
+            <height>10.0</height>
+            <angle>120.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>100.0</posx>
+            <posy>150.0</posy>
+            <length>100.0</length>
+            <height>10.0</height>
+            <angle>0.0</angle>
+        </rectangle>
+
+
+        <rectangle>
+            <posx>0.0</posx>
+            <posy>450.0</posy>
+            <length>300.0</length>
+            <height>10.0</height>
+            <angle>0.0</angle>
+        </rectangle>
+
+        
+        <rectangle>
+            <posx>810.0</posx>
+            <posy>200.0</posy>
+            <length>300.0</length>
+            <height>10.0</height>
+            <angle>160.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>490.0</posx>
+            <posy>450.0</posy>
+            <length>400.0</length>
+            <height>10.0</height>
+            <angle>0.0</angle>
+        </rectangle>
+
+        <rectangle>
+            <posx>0.0</posx>
+            <posy>250.0</posy>
+            <length>150.0</length>
+            <height>10.0</height>
+            <angle>0.0</angle>
+        </rectangle>
+    </environment>
+
+    <enemies>
+        <normal>
+            <posx>700.0</posx>
+            <posy>400.0</posy>
+            <angle>180.0</angle>
+        </normal>
+
+        <gunner>
+            <posx>400.0</posx>
+            <posy>500.0</posy>
+            <angle>90.0</angle>
+        </gunner>
+
+        <normal>
+            <posx>360.0</posx>
+            <posy>450.0</posy>
+            <angle>90.0</angle>
+        </normal>
+
+        <normal>
+            <posx>440.0</posx>
+            <posy>450.0</posy>
+            <angle>90.0</angle>
+        </normal>
+
+        <sniper>
+            <posx>140.0</posx>
+            <posy>210.0</posy>
+            <angle>90.0</angle>
+        </sniper>
+
+        <heavy>
+            <posx>700.0</posx>
+            <posy>150.0</posy>
+            <angle>180.0</angle>
+        </heavy>
+
+        <heavy>
+            <posx>700.0</posx>
+            <posy>190.0</posy>
+            <angle>180.0</angle>
+        </heavy>
+            
+
+    </enemies>
+
+</levels>
